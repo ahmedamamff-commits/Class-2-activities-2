@@ -1,0 +1,5 @@
+print("Hi! My name is Ahmed and I am 11 years old. I am about to start studying in 6th grade.")
+print("My favorite hobbies are \nPlaying with my cat\nChatting with my friends\nPlaying videogames.")
+print(67)
+print("Hello!", 67)
+print("Hi, my name is Ahmed!", end="*>")
